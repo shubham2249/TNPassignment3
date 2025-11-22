@@ -1,0 +1,2 @@
+admin,password,David,admin12@gmail.com,admin,admin,9542315324,admin
+0103CS231394,12345678,shubham,shubham22102003@gmail.com,CSE,2027,8252327083,student

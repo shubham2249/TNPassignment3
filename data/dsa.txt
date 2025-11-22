@@ -1,0 +1,40 @@
+What is the time complexity of binary search on a sorted array?
+a) O(n)
+b) O(log n)
+c) O(n log n)
+d) O(1)
+Answer: b
+
+Which data structure uses FIFO order?
+a) Stack
+b) Queue
+c) Tree
+d) Graph
+Answer: b
+
+Which traversal uses Left-Root-Right order?
+a) Preorder
+b) Inorder
+c) Postorder
+d) Level order
+Answer: b
+
+What operation does push perform on a stack?
+a) Remove from top
+b) Add to top
+c) Add to bottom
+d) Peek
+Answer: b
+
+What is the time complexity of binary search on a sorted array?
+a) O(n)
+b) O(log n)
+c) O(n log n)
+d) O(1)
+Answer: bWhat is the time complexity of binary search?
+O(n)
+O(logn)
+O(2n)
+O(n/2)
+Answer: b
+

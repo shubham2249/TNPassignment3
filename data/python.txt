@@ -1,0 +1,34 @@
+1. What is the output of print(type([]))?
+   a) <class 'tuple'>
+   b) <class 'list'>
+   c) <class 'dict'>
+   d) <class 'set'>
+   Answer: b
+
+2. Which keyword is used to define a function in Python?
+   a) function
+   b) def
+   c) fun
+   d) define
+   Answer: b
+
+3. What is the output of len('Python')?
+   a) 5
+   b) 6
+   c) 7
+   d) Error
+   Answer: b
+
+4. Which of the following data types is immutable in Python?
+   a) List
+   b) Set
+   c) Dictionary
+   d) Tuple
+   Answer: d
+
+5. What will be the output of 3 * 'Hi'?
+   a) HiHiHi
+   b) Error
+   c) 3Hi
+   d) Hi3
+   Answer: a

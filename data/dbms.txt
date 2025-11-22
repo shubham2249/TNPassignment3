@@ -1,0 +1,34 @@
+1. Which of the following is a valid SQL statement to retrieve all columns from a table named 'students'?
+   a) SELECT * FROM students;
+   b) GET ALL FROM students;
+   c) SHOW * FROM students;
+   d) EXTRACT * FROM students;
+   Answer: a
+
+2. What does the term 'Normalization' mean in DBMS?
+   a) Increasing redundancy
+   b) Reducing redundancy
+   c) Deleting data
+   d) Encrypting tables
+   Answer: b
+
+3. Which key uniquely identifies a record in a table?
+   a) Foreign Key
+   b) Primary Key
+   c) Composite Key
+   d) Alternate Key
+   Answer: b
+
+4. Which SQL clause is used to filter records?
+   a) WHERE
+   b) FROM
+   c) SELECT
+   d) ORDER BY
+   Answer: a
+
+5. In an ER diagram, a diamond symbol represents what?
+   a) Entity
+   b) Attribute
+   c) Relationship
+   d) Key
+   Answer: c
